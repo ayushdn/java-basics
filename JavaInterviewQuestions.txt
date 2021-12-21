@@ -1,0 +1,40 @@
+My Java Interview Experienced(2021)| Mphasis | Wipro | Accenture | LTI |
+
+
+1.  HashMap:i)   How HashMap Internally works in Java. 
+			ii)  what happens when we don't override equals and hashcode method when passing custom object as a key.
+			iii) Difference btw HashMap and LinkedHashMap.
+			iv)  What is concurrent HashMap and difference btw Hashtable and ConcurrentHashmap
+			v)   Time Complexity of HashMap.
+			
+2.  List:i)  Difference between ArrayList and LinkedList.
+		ii)  When to use ArrayList and when to use LinkedList in RealTime projects.
+		iii) What is shifting of bits in ArrayList.
+		iv)  Worst case Time Complexity of ArrayList.
+		
+3.  Set i)  How Hashset internally works.
+		ii) Difference btw Hashset and LinkedHashSet.
+
+
+4.  Multithreading: i)  Differents ways to create threads in java.
+					ii) Main Difference btw Callable & Runnable Interface.
+				   iii) difference btw sleep() & wait() method in java.
+					iv) Executor Framework.
+					
+					Java 1.8 latest features:
+					
+5.  Stream API & Lambda Expression: i)  Use of Stream API and its different methods for ex filter(),map(),forEach(),Sorted() etc.
+									ii) Sort the list of integers using Stream API , sum of all integers present in a list using Stream API
+										,maximum salary department wise using Stream API.
+									iii) Why do we need Lambda Expression and how do we implement lambda in Real Time project.
+									iv)  what is Functional Interface.
+
+6. Exceptional Handling : i)  How to create custom exception class in java.
+						  ii) what is checked & unchecked exception in java.
+						  
+7. Serialization: i) What is Serialization and why do we use it.
+				 ii) How you will perform serialization & Deserialization in java.
+				 
+8. what is volatile keyword and Transient keyword in java.
+
+9. How you will create Immutable & Singleton class in java.
